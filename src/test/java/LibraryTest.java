@@ -13,6 +13,6 @@ public class LibraryTest {
 
     @Test public void addsIntegers() {
         Library classUnderTest = new Library();
-        assertEquals(4, classUnderTest.addIntegers(2, 2));
+        assertEquals(5, classUnderTest.addIntegers(2, 2));
     }
 }
