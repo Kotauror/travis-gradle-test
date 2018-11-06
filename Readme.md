@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.com/Kotauror/travis-gradle-test.svg?branch=master)](https://travis-ci.com/Kotauror/travis-gradle-test)
+
 This is a sample project to try using gradle tasks & Travis CI.
 
 ## Building the jar, running the program
