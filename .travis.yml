@@ -1,3 +1,5 @@
 language: java
 os: osx
-script: gradle test
+script: 
+- ./gradlew build
+- gradle test
